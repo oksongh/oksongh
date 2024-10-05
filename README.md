@@ -43,7 +43,7 @@ Favorite microcontroller:
 ## Research
 I have a master's degree in engineering, but I don't intend to make the following my main focus.
 
-I often do research on the following topics: 
+I often did research on the following topics: 
 - dielectric thin film fabrication by physical vapor deposition(PVDで誘電体薄膜の作製)
 - X-ray diffraction(X線回折)
 - atomic force microscopy(原子間力顕微鏡)
