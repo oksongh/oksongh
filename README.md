@@ -21,6 +21,7 @@ I am learning...
 # my skills
 
 ## Programming Language
+- C/C++
 - Java
 - Python
 - Go
