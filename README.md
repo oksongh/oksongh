@@ -33,6 +33,13 @@ Favorite microcontroller:
 - Raspberry Pi Pico
 - Raspberry Pi
 
+## Control Engineering
+
+- [Temperature control system(温度制御システム)](https://github.com/NAFT-LinkSpace/NRD_furnace)
+    - I created this product because I like control engineering.
+    - I designed a circuit and developed a PID controller program using Arduino.
+
+
 ## Research
 I have a master's degree in engineering, but I don't intend to make the following my main focus.
 
