@@ -9,6 +9,14 @@
 
 # What I want to do
 
+I want to work as a Rust programmer.
+
+I understand...
+- expression-oriented
+- ownership and borrowing
+
+I am learning...
+- Future(Async/Await)
 
 # my skills
 
