@@ -51,6 +51,6 @@ I often did research on the following topics:
 - scanning electron microscopy(走査型電子顕微鏡)
 
 I also have experience in the following fields:
-- assemle vacuum systems (真空装置の組み立て)　　　
+- assemble vacuum systems (真空装置の組み立て)　　　
 
 
